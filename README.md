@@ -168,9 +168,9 @@ npx serve .
 
 ### 📞 更新聯繫資訊
 搜尋並替換：
-- `+886-2-xxxx-xxxx` → 實際電話
-- `info@aqstandards.com` → 實際郵箱  
-- `台北市xxx區xxx路xxx號` → 實際地址
+- `+886-988-921-357` → 實際電話
+- `service@aqstandards.com` → 實際郵箱  
+- `台北市大安區新生南路88號6樓` → 實際地址
 
 ### 📝 表單後端集成
 ```javascript
